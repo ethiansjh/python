@@ -1,5 +1,1 @@
-# python
-# python
-# python
-# python
-# python
+# this repository is for the practices python language.

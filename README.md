@@ -1,1 +1,1 @@
-# this repository is for the practices python language.
+# Exercices de cours d'Udacity
